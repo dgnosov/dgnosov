@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/danil-nosov-10a0255a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/danil-nosov-10a0255a/" height="40" width="40" /></a>
+<p>&nbsp;</p>
 <a href="https://t.me/dnosov" target="blank"><img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" height="40" width="40"/></a>
 </p>
 
