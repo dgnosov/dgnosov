@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgnosov&label=Profile%20views&color=0e75b6&style=flat" alt="dgnosov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/danil-nosov-10a0255a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/danil-nosov-10a0255a/" height="30" width="40" /></a>
-<a href="https://t.me/dnosov" target="blank"><img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" height="30" width="40"/></a>
+<p style="display: flex; align-items: center;">
+<a href="https://linkedin.com/in/https://linkedin.com/in/danil-nosov-10a0255a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/danil-nosov-10a0255a/"  width="40" /></a>
+<a href="https://t.me/dnosov" target="blank"><img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png"  width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
