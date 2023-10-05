@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/danil-nosov-10a0255a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/danil-nosov-10a0255a/" height="30" width="40" /></a>
-<a><img src="https://w7.pngwing.com/pngs/618/605/png-transparent-computer-icons-telegram-youtube-social-media-messenger-blue-angle-triangle-thumbnail.png](https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png"/></a>
+<a><img src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
